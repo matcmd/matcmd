@@ -41,3 +41,11 @@ I build fast, scalable, and elegant interfaces for modern SaaS products. I care 
 
 💡 *Most of my recent work is in private GitLab repositories at my current company*
 
+## 📊 GitHub Stats
+
+![Mattia's GitHub stats](https://github-readme-stats.vercel.app/api?username=matcmd&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matcmd&layout=compact&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=matcmd)](https://git.io/streak-stats)
+
